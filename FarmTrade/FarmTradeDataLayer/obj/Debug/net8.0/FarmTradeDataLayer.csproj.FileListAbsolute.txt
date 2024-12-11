@@ -1,0 +1,17 @@
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeDataLayer.deps.json
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeDataLayer.runtimeconfig.json
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeDataLayer.dll
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeDataLayer.pdb
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeEntity.dll
+D:\Projects\FarmTrade\FarmTradeDataLayer\bin\Debug\net8.0\FarmTradeEntity.pdb
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.csproj.AssemblyReference.cache
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.AssemblyInfoInputs.cache
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.AssemblyInfo.cs
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTrad.098CB224.Up2Date
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.dll
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\refint\FarmTradeDataLayer.dll
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.pdb
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\FarmTradeDataLayer.genruntimeconfig.cache
+D:\Projects\FarmTrade\FarmTradeDataLayer\obj\Debug\net8.0\ref\FarmTradeDataLayer.dll

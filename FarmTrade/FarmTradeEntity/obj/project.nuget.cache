@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTKKubfropw=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\FarmTradeEntity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\praveen.rajendran\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.32\\microsoft.aspnetcore.http.features.3.1.32.nupkg.sha512",
+    "C:\\Users\\praveen.rajendran\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\praveen.rajendran\\.nuget\\packages\\system.io.pipelines\\4.7.5\\system.io.pipelines.4.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Projects\FarmTrade\FarmTradeEntity\bin\Release\net8.0\FarmTradeEntity.deps.json
+D:\Projects\FarmTrade\FarmTradeEntity\bin\Release\net8.0\FarmTradeEntity.dll
+D:\Projects\FarmTrade\FarmTradeEntity\bin\Release\net8.0\FarmTradeEntity.pdb
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.csproj.AssemblyReference.cache
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.AssemblyInfoInputs.cache
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.AssemblyInfo.cs
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.csproj.CoreCompileInputs.cache
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.dll
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\refint\FarmTradeEntity.dll
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\FarmTradeEntity.pdb
+D:\Projects\FarmTrade\FarmTradeEntity\obj\Release\net8.0\ref\FarmTradeEntity.dll

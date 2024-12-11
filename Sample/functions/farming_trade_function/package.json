@@ -1,0 +1,10 @@
+{
+  "name": "farming_trade_function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "praveenr2000r@gmail.com",
+  "dependencies": {
+		"selenium-webdriver": "latest",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

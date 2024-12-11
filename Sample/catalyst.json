@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "farming_trade_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

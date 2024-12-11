@@ -1,0 +1,15 @@
+# @FarmApi_HostAddress = http://localhost:5261
+
+# GET {{FarmApi_HostAddress}}/weatherforecast/
+# Accept: application/json
+
+# ###
+@FarmApi_HostAddress = http://localhost:5261
+
+POST {{FarmApi_HostAddress}}/api/ForgotPassword/forgot-password
+Content-Type: application/json
+
+# {
+#   "email": "user@example.com"
+# }
+

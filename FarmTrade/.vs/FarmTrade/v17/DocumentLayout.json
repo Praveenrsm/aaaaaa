@@ -1,0 +1,747 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\FarmTrade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\addressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\addressrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\cartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\ratingandreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\ratingandreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\iratingandreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\iratingandreviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\farmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\farmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\forgotpasswordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\usercartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\usercartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\ratingreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\ratingreviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\model\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\model\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\model\\productcreationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\model\\productcreationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\farmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\farmapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\farmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\farmapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|d:\\projects\\farmtrade\\farmbusiness\\services\\rrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41471976-04B8-498A-B788-F87195DEA9AC}|FarmBusiness\\FarmBusiness.csproj|solutionrelative:farmbusiness\\services\\rrservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\farmapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\farmapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\reviewsandratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\reviewsandratings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|d:\\projects\\farmtrade\\farmtradedatalayer\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C71C51-4603-44F0-B2DE-B572E40C4FC9}|FarmTradeDataLayer\\FarmTradeDataLayer.csproj|solutionrelative:farmtradedatalayer\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|d:\\projects\\farmtrade\\farmtradeentity\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2596561-B9C8-4563-8596-A845825AB215}|FarmTradeEntity\\FarmTradeEntity.csproj|solutionrelative:farmtradeentity\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|d:\\projects\\farmtrade\\farmapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83F7C0B4-FC00-4698-BA01-D0EC8250DE7B}|FarmApi\\FarmApi.csproj|solutionrelative:farmapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RatingAndReviewRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\RatingAndReviewRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\RatingAndReviewRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\RatingAndReviewRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\RatingAndReviewRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:07:22.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:11:31.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\OrderService.cs*",
+              "RelativeToolTip": "FarmBusiness\\Services\\OrderService.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:15:55.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\CartRepo.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\CartRepo.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\CartRepo.cs*",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\CartRepo.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:48:13.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:58:06.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwKAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:11:05.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\OrderRepo.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\OrderRepo.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\OrderRepo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T12:15:02.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddressRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\AddressRepo.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\AddressRepo.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\AddressRepo.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\AddressRepo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:48:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRatingAndReviewRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IRatingAndReviewRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\IRatingAndReviewRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IRatingAndReviewRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\IRatingAndReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:26:28.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IproductRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IproductRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\IproductRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IproductRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\IproductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:25:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "FarmApi\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:56:39.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:54:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Order.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\Order.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Order.cs",
+              "RelativeToolTip": "FarmTradeEntity\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:12:11.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FarmContext.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\FarmContext.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\FarmContext.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\FarmContext.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\FarmContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:51:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\OrderItem.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\OrderItem.cs",
+              "RelativeToolTip": "FarmTradeEntity\\OrderItem.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:12:15.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\OrderStatus.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\OrderStatus.cs",
+              "RelativeToolTip": "FarmTradeEntity\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:12:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\CartService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\CartService.cs*",
+              "RelativeToolTip": "FarmBusiness\\Services\\CartService.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:08:59.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Cart.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\Cart.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Cart.cs",
+              "RelativeToolTip": "FarmTradeEntity\\Cart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:34:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartRepo.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\ICartRepo.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\ICartRepo.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\ICartRepo.cs*",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\ICartRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:33:27.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ForgotPasswordController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\ForgotPasswordController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\ForgotPasswordController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\ForgotPasswordController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\ForgotPasswordController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAmwHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:28:06.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\User.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\User.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\User.cs",
+              "RelativeToolTip": "FarmTradeEntity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:37:45.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\UserService.cs",
+              "RelativeToolTip": "FarmBusiness\\Services\\UserService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:13:08.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:43:36.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\AddressController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:02:17.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserCartService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\UserCartService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\UserCartService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\UserCartService.cs",
+              "RelativeToolTip": "FarmBusiness\\Services\\UserCartService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:13:10.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RatingReviewController.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\RatingReviewController.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Controllers\\RatingReviewController.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Controllers\\RatingReviewController.cs",
+              "RelativeToolTip": "FarmApi\\Controllers\\RatingReviewController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:12:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\AddressService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\AddressService.cs",
+              "RelativeToolTip": "FarmBusiness\\Services\\AddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:15:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductCreationModel.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Model\\ProductCreationModel.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Model\\ProductCreationModel.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Model\\ProductCreationModel.cs",
+              "RelativeToolTip": "FarmApi\\Model\\ProductCreationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:55:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\appsettings.json",
+              "RelativeDocumentMoniker": "FarmApi\\appsettings.json",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\appsettings.json",
+              "RelativeToolTip": "FarmApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T11:37:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FarmApi.http",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.http",
+              "RelativeDocumentMoniker": "FarmApi\\FarmApi.http",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.http",
+              "RelativeToolTip": "FarmApi\\FarmApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-25T06:53:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Program.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Program.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Program.cs",
+              "RelativeToolTip": "FarmApi\\Program.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwHAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:45:31.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "files.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Model\\files.cs",
+              "RelativeDocumentMoniker": "FarmApi\\Model\\files.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Model\\files.cs",
+              "RelativeToolTip": "FarmApi\\Model\\files.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T06:47:31.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FarmApi.csproj",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.csproj",
+              "RelativeDocumentMoniker": "FarmApi\\FarmApi.csproj",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.csproj",
+              "RelativeToolTip": "FarmApi\\FarmApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T11:35:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\ProductService.cs",
+              "RelativeToolTip": "FarmBusiness\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:15:54.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RRService.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\RRService.cs",
+              "RelativeDocumentMoniker": "FarmBusiness\\Services\\RRService.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmBusiness\\Services\\RRService.cs",
+              "RelativeToolTip": "FarmBusiness\\Services\\RRService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:27:29.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FarmApi",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.csproj",
+              "RelativeDocumentMoniker": "FarmApi\\FarmApi.csproj",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\FarmApi.csproj",
+              "RelativeToolTip": "FarmApi\\FarmApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T11:30:10.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReviewsAndRatings.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\ReviewsAndRatings.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\ReviewsAndRatings.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\ReviewsAndRatings.cs",
+              "RelativeToolTip": "FarmTradeEntity\\ReviewsAndRatings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:01:54.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "FarmTradeDataLayer\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeDataLayer\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "FarmTradeDataLayer\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:26:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Product.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\Product.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Product.cs",
+              "RelativeToolTip": "FarmTradeEntity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:01:30.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Rating.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\Rating.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\Rating.cs",
+              "RelativeToolTip": "FarmTradeEntity\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:02:04.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\ProductImage.cs",
+              "RelativeDocumentMoniker": "FarmTradeEntity\\ProductImage.cs",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmTradeEntity\\ProductImage.cs",
+              "RelativeToolTip": "FarmTradeEntity\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:01:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FarmApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FarmApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T11:31:08.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projects\\FarmTrade\\FarmApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FarmApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Projects\\FarmTrade\\FarmApi\\appsettings.Development.json",
+              "RelativeToolTip": "FarmApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T11:37:38.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

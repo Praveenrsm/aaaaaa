@@ -1,0 +1,108 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+/* Add this section to main.css for styling social media icons */
+/* Social media icon styling */
+.social-icon {
+    font-size: 24px;
+    color: #000;
+    margin-right: 20px; /* Add space between icons */
+}
+
+.social-icon:hover {
+    color: #0072b1; /* Change this to highlight color on hover */
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+footer h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover .social-icon {
+    opacity: 0.8;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.profile-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 1.2em;
+    margin: 0 15px;
+    display: inline-block;
+}
+
+nav a:hover {
+    color: #0056b3;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 1.3em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+li:hover {
+    background-color: #0056b3;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
